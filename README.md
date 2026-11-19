@@ -9,3 +9,4 @@
 - API to collect and store appointment requests
 - Centralized logging and security monitoring
 - Designed for extensibility with real-world DevOps patterns
+
