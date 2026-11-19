@@ -10,3 +10,14 @@
 - Centralized logging and security monitoring
 - Designed for extensibility with real-world DevOps patterns
 
+## Services
+
+- Dashboard and system building
+- Hosting and management
+- Website development
+- Mobile app development
+
+## Contact
+
+- Phone: [(678) 561-3435](tel:+16785613435)
+- Email: [dev@headlinework.com](mailto:dev@headlinework.com)
